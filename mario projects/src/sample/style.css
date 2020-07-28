@@ -1,0 +1,16 @@
+.label{
+    -fx-font-size: 14px;
+    -fx-font-family:"Bahnschrift";
+    -fx-font-style: italic;
+    -fx-text-fill: #000000;
+}
+.button{
+    -fx-fill: #b2ff2c;
+    -fx-border-color: cyan;
+    -fx-font-style: italic;
+    -fx-text-fill: brown;
+
+}
+
+
+

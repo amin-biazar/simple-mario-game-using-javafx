@@ -1,0 +1,6 @@
+.label {
+    -fx-font-size: 36;
+    -fx-font-family: "Poor Richard";
+    -fx-font-style: italic;
+    -fx-text-fill: black;
+}
